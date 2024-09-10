@@ -37,6 +37,7 @@ img {
 header .container {
     display: flex;
     justify-content: space-between;
+    padding: 24px 0;
 }
 
 header {
@@ -52,13 +53,11 @@ header {
 .header-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .ul-header-address {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .header-address {
