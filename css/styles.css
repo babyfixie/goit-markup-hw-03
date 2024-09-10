@@ -40,14 +40,13 @@ header .container {
 }
 
 header {
-    background-color: #ffffff;
     border-bottom: 1px solid #e7e9fc;
+    padding: 24px 0;
 }
 
 .header-nav {
     display: flex;
     align-items: center;
-    padding: 24px 0;
 }
 
 .header-list {
@@ -63,7 +62,6 @@ header {
 .header-address {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .header-logo {
@@ -89,6 +87,7 @@ header {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    padding: 24px 0;
 }
 
 .header-list-item {
